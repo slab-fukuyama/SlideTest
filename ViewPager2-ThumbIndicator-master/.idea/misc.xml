@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/sagyou/Slide/ViewPager2-ThumbIndicator-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3195" />
+        <entry key="..\:/sagyou/Slide/ViewPager2-ThumbIndicator-master/app/src/main/res/drawable/default_border.xml" value="0.3195" />
+        <entry key="..\:/sagyou/Slide/ViewPager2-ThumbIndicator-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3195" />
+        <entry key="..\:/sagyou/Slide/ViewPager2-ThumbIndicator-master/app/src/main/res/layout/activity_main.xml" value="0.19519927536231885" />
+        <entry key="..\:/sagyou/Slide/ViewPager2-ThumbIndicator-master/app/src/main/res/layout/activity_test.xml" value="0.5541666666666667" />
+        <entry key="..\:/sagyou/Slide/ViewPager2-ThumbIndicator-master/app/src/main/res/layout/activity_top.xml" value="0.19519927536231885" />
+        <entry key="..\:/sagyou/Slide/ViewPager2-ThumbIndicator-master/app/src/main/res/layout/text_view_generic.xml" value="0.5541666666666667" />
+        <entry key="..\:/sagyou/Slide/ViewPager2-ThumbIndicator-master/app/src/main/res/layout/thumbnail_item.xml" value="0.1933876811594203" />
+        <entry key="..\:/sagyou/Slide/ViewPager2-ThumbIndicator-master/app/src/main/res/layout/thumbnail_item2.xml" value="0.3151041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
